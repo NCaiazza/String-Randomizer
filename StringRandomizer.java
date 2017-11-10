@@ -3,6 +3,7 @@ package stringRandomizer;
 import java.util.Random;
 import java.util.Scanner;
 
+// Author: Nicholas Caiazza
 public class StringRandomizer {
 
 	public static void main(String[] args) {
